@@ -113,7 +113,7 @@ width: 100%;
 <br>
 <h2>About my city</h2>
 <h5>Tehran in Iran</h5>
-<img src="https://s16.picofile.com/file/8424233968/tehran.jpg" width=840px" height="750px">
+<img src="https://s16.picofile.com/file/8424233968/tehran.jpg" width=200px" height="200px">
 <p>introduction</p>
 <p>Tehran is the most populous city and capital of Iran, the capital of Tehran province and the city of Tehran. With a population of 8,693,706, it is the 24th most populous city in the world and the most populous city in West Asia. The metropolis of Tehran is the third most populous metropolis in the Middle East.</p>
 </div>
